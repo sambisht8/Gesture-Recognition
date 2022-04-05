@@ -21,9 +21,7 @@ Objectives:
 
     Write up: This should contain the detailed procedure followed in choosing the final model. The write up should start with the reason for choosing the base model, then highlight the reasons and metrics taken into consideration to modify and experiment to arrive at the final model.
 
-Installation:
 
-Run pip install -r requirements.txt to install all the dependencies.
 Dataset:
 
 You can download the dataset from here. 
