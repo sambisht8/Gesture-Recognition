@@ -24,4 +24,4 @@ Objectives:
 
 Dataset:
 
-You can download the dataset from here. 
+You can download the dataset from https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL. 
